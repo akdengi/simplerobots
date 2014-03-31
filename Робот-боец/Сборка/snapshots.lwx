@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='utf-8'?>
+<snapRoot unitsScale="0.001" artisan_version="2.3" type="snapStudio" name="SnapRoot" >
+  <snapshots name="Model SnapShots" >
+    <snapshot name="Сборка1" >
+      <snapShotSettings>
+        <param val="1" type="float" name="Ambient Lights Intensity Scale" />
+        <param val="0" type="float" name="Twist" />
+        <param val="0 -1 0" type="vector" name="Orientation Up" />
+        <param val="0 0 1" type="vector" name="Orientation North" />
+        <param val="1 0 0" type="vector" name="Orientation Front Face" />
+        <param val="" type="string" name="Image File Name" />
+        <param val="Сборка" type="string" name="Session Folder" />
+        <param val="setextures\hdri\studio\lwhdr_studio6\HDR\lwhdr_studio6_2k.hdr" type="string" name="Reflected Env Path" />
+        <param val="2" type="float" name="Reflected Env Intensity" />
+        <param val="0" type="boolean" name="Reflect BackPlate" />
+        <param val="1" type="boolean" name="Selected" />
+      </snapShotSettings>
+      <scenery>
+        <param val="1" type="boolean" name="Drop Shadow" />
+        <param val="1" type="boolean" name="Drop Sunlight" />
+        <param val="0" type="boolean" name="Drop Reflection" />
+        <param val="10" type="integer" name="Drop Shadow Quality" />
+        <param val="0.8" type="float" name="Drop Shadow Contrast" />
+        <param val="0.5" type="float" name="Drop Sunlight Brightness" />
+        <param val="0.5" type="float" name="Drop Reflection Brightness" />
+        <param val="0" type="float" name="Drop Reflection Blur" />
+        <param val="3" type="float" name="Base Size" />
+        <param val="1" type="boolean" name="Drop Shadow Catch Spots" />
+      </scenery>
+      <scheme subcat="Product" refname="Fast Ambient - Eye and Distant" description="" path="Product\Simple Components" name="Fast Ambient - Eye and Distant" cat="Schemes" >
+        <background subcat="Plain" refname="White" path="Plain" name="White" cat="Backgrounds" />
+      </scheme>
+      <naturalLightStudio>
+        <param val="1" type="boolean" name="Enabled" />
+        <param val="205.2" type="float" name="Sun Azimuth" />
+        <param val="45" type="float" name="Sun Altitude" />
+      </naturalLightStudio>
+      <background subcat="Plain" refname="White" path="Plain" name="White" cat="Backgrounds" >
+        <param val="1 1 1" type="colour" name="Colour" />
+      </background>
+      <materialRepository>
+        <material linkname="Изолента144 144 144 255" />
+        <material linkname="Батарейка0 0 255 255" />
+        <material linkname="Руки144 144 144 255" />
+        <material linkname="Ноги144 144 144 255" />
+        <material linkname="Вибратор255 255 0 255" subcat="" refname="" >
+          <colour>
+            <diffuse>
+              <param val="colour" type="shader" name="Colour" >
+                <plainColour enabled="1" >
+                  <param val="1 0.768628 0.333333" type="colour" name="Colour" />
+                </plainColour>
+              </param>
+            </diffuse>
+          </colour>
+          <transparency>
+            <param val="colour" type="shader" name="Colour" >
+              <plainColour enabled="1" >
+                <param val="1 1 1" type="colour" name="Colour" />
+              </plainColour>
+            </param>
+            <param val="0" type="boolean" name="InvertMask" />
+          </transparency>
+          <finish subcat="Advanced" refname="Plastic Translucency 3" path="Advanced\Plastics\Translucent Plastic" reset="1" name="Plastic Translucency 3" cat="Finishes" />
+          <bump subcat="Bumps" refname="Smooth" path="Bumps" name="Smooth" cat="Bumps" />
+        </material>
+        <material linkname="Мотор255 0 0 255" />
+      </materialRepository>
+      <renderTargets>
+        <renderTarget subcat="Image" enabled="1" >
+          <param val="30" type="integer" name="Lighting Quality" />
+          <param val="5" type="integer" name="Material Quality" />
+          <param val="Progressive High" type="string" name="Render Quality" />
+          <param prop="D" val="0.5" type="float" name="Model Hint" />
+          <param val="1280" type="integer" name="Width" />
+          <param val="720" type="integer" name="Height" />
+          <param val="1" type="boolean" name="Use Aspect Ratio" />
+          <param val="1.5" type="float" name="Aspect Ratio" />
+          <param val="1" type="boolean" name="Landscape" />
+          <param val="C:\Users\Казанцев\Documents\Простые роботы\Робот-боец\Сборка\photo_Сборка1.png" type="string" name="Filename" />
+          <param val="photo_Сборка1.png" type="string" name="Short Filename" />
+          <param val="png" type="string" name="Output Format" />
+          <param val="1.7" type="float" name="Gamma" />
+        </renderTarget>
+      </renderTargets>
+      <camera>
+        <param val="-10.8751 -101.531 43.5533" type="point" name="From" />
+        <param val="38.7561 -49.3737 -15.7752" type="point" name="To" />
+        <param val="0 -1 0" type="vector" name="Up" />
+        <param val="0" type="boolean" name="Orthographic" />
+        <param val="60" type="float" name="Field Of View" />
+        <param val="23.0361" type="float" name="Near" />
+        <param val="132.405" type="float" name="Far" />
+        <param val="0" type="boolean" name="View Fit" />
+      </camera>
+      <artificialLightStudio>
+        <param val="1" type="boolean" name="Enabled" />
+        <param val="1" type="float" name="Intensity Scale" />
+      </artificialLightStudio>
+    </snapshot>
+    <snapshot name="Сборка2" >
+      <snapShotSettings>
+        <param val="0.15" type="float" name="Ambient Lights Intensity Scale" />
+        <param val="0" type="float" name="Twist" />
+        <param val="0 -1 0" type="vector" name="Orientation Up" />
+        <param val="0 0 1" type="vector" name="Orientation North" />
+        <param val="1 0 0" type="vector" name="Orientation Front Face" />
+        <param val="" type="string" name="Image File Name" />
+        <param val="Сборка" type="string" name="Session Folder" />
+        <param val="setextures\hdri\studio\lwhdr_studio2\HDR\lwhdr_studio2_2k.hdr" type="string" name="Reflected Env Path" />
+        <param val="3.75" type="float" name="Reflected Env Intensity" />
+        <param val="0" type="boolean" name="Reflect BackPlate" />
+      </snapShotSettings>
+      <scenery>
+        <param val="1" type="boolean" name="Drop Shadow" />
+        <param val="1" type="boolean" name="Drop Sunlight" />
+        <param val="0" type="boolean" name="Drop Reflection" />
+        <param val="10" type="integer" name="Drop Shadow Quality" />
+        <param val="0.8" type="float" name="Drop Shadow Contrast" />
+        <param val="0.5" type="float" name="Drop Sunlight Brightness" />
+        <param val="0.5" type="float" name="Drop Reflection Brightness" />
+        <param val="0" type="float" name="Drop Reflection Blur" />
+        <param val="3" type="float" name="Base Size" />
+        <param val="1" type="boolean" name="Drop Shadow Catch Spots" />
+      </scenery>
+      <materialRepository>
+        <material linkname="Изолента144 144 144 255" subcat="" refname="" >
+          <colour>
+            <diffuse>
+              <param val="colour" type="shader" name="Colour" >
+                <plainColour enabled="1" >
+                  <param val="1 0.6 0" type="colour" name="Colour" />
+                </plainColour>
+              </param>
+            </diffuse>
+          </colour>
+          <finish subcat="Standard" refname="Metallic Paint - Gold Flakes" path="Standard\Paints" name="Metallic Paint - Gold Flakes" cat="Finishes" />
+          <transparency name=" (0)" >
+            <param val="colour" type="shader" name="Colour" >
+              <plainColour enabled="1" >
+                <param val="1 1 1" type="colour" name="Colour" />
+              </plainColour>
+            </param>
+            <param val="0" type="boolean" name="InvertMask" />
+          </transparency>
+          <bump subcat="Bumps" refname="Smooth" path="Bumps" name="Smooth" cat="Bumps" />
+        </material>
+        <material linkname="Батарейка0 0 255 255" >
+          <finish subcat="Advanced" refname="AutoPaint Lightness 6" path="Advanced\Paints" name="AutoPaint Lightness 6" cat="Finishes" />
+        </material>
+        <material linkname="Руки144 144 144 255" subcat="" refname="" >
+          <colour>
+            <diffuse>
+              <param val="colour" type="shader" name="Colour" >
+                <plainColour enabled="1" >
+                  <param val="0.95 0.7 0.39" type="colour" name="Colour" />
+                </plainColour>
+              </param>
+            </diffuse>
+          </colour>
+          <finish subcat="Standard" refname="Gold Plate" path="Metals" name="Gold Plate" cat="Finishes" />
+          <bump subcat="Bumps" refname="Smooth" path="Smooth" name="Smooth" cat="Bumps" />
+        </material>
+        <material linkname="Ноги144 144 144 255" subcat="" refname="" >
+          <colour>
+            <diffuse>
+              <param val="colour" type="shader" name="Colour" >
+                <plainColour enabled="1" >
+                  <param val="0.95 0.7 0.39" type="colour" name="Colour" />
+                </plainColour>
+              </param>
+            </diffuse>
+          </colour>
+          <finish subcat="Standard" refname="Gold Plate" path="Metals" name="Gold Plate" cat="Finishes" />
+          <bump subcat="Bumps" refname="Smooth" path="Smooth" name="Smooth" cat="Bumps" />
+        </material>
+        <material linkname="Вибратор255 255 0 255" subcat="" refname="" >
+          <colour>
+            <diffuse>
+              <param val="colour" type="shader" name="Colour" >
+                <plainColour enabled="1" >
+                  <param val="1 0.6 0" type="colour" name="Colour" />
+                </plainColour>
+              </param>
+            </diffuse>
+          </colour>
+          <transparency name=" (0)" >
+            <param val="colour" type="shader" name="Colour" >
+              <plainColour enabled="1" >
+                <param val="1 1 1" type="colour" name="Colour" />
+              </plainColour>
+            </param>
+            <param val="0" type="boolean" name="InvertMask" />
+          </transparency>
+          <bump subcat="Bumps" refname="Smooth" path="Bumps" name="Smooth" cat="Bumps" />
+          <finish subcat="Standard" refname="Matte Brightness 8" path="Standard\Coatings" name="Matte Brightness 8" cat="Finishes" />
+        </material>
+        <material linkname="Мотор255 0 0 255" subcat="" refname="" >
+          <colour>
+            <diffuse>
+              <param val="colour" type="shader" name="Colour" >
+                <plainColour enabled="1" >
+                  <param val="0.756863 0.745098 0.741176" type="colour" name="Colour" />
+                </plainColour>
+              </param>
+            </diffuse>
+          </colour>
+          <finish subcat="Advanced" refname="Steel Brushed 4" path="Advanced\Metals" name="Steel Brushed 4" cat="Finishes" />
+          <bump subcat="Bumps" refname="Smooth" path="Smooth" name="Smooth" cat="Bumps" />
+        </material>
+      </materialRepository>
+      <renderTargets>
+        <renderTarget subcat="Image" >
+          <param val="30" type="integer" name="Lighting Quality" />
+          <param val="5" type="integer" name="Material Quality" />
+          <param val="Progressive High" type="string" name="Render Quality" />
+          <param prop="D" val="0.5" type="float" name="Model Hint" />
+          <param val="879" type="integer" name="Width" />
+          <param val="494" type="integer" name="Height" />
+          <param val="1" type="boolean" name="Use Aspect Ratio" />
+          <param val="1.77778" type="float" name="Aspect Ratio" />
+          <param val="1" type="boolean" name="Landscape" />
+          <param val="" type="string" name="Filename" />
+          <param val="photo_Сборка2.jpg" type="string" name="Short Filename" />
+          <param val="" type="string" name="Output Format" />
+          <param val="1.7" type="float" name="Gamma" />
+        </renderTarget>
+      </renderTargets>
+      <scheme subcat="Product" refname="Studio - Neutral 2" description="" path="Product\Artisan\Studios" name="Studio - Neutral 2" cat="Schemes" >
+        <background subcat="Plain" refname="White" path="Plain" name="White" cat="Backgrounds" />
+      </scheme>
+      <naturalLightStudio>
+        <param val="1" type="boolean" name="Enabled" />
+        <param val="205.2" type="float" name="Sun Azimuth" />
+        <param val="45" type="float" name="Sun Altitude" />
+      </naturalLightStudio>
+      <artificialLightStudio>
+        <param val="1" type="boolean" name="Enabled" />
+        <param val="1" type="float" name="Intensity Scale" />
+      </artificialLightStudio>
+      <background subcat="Image" refname="Meeting Room" path="Image\Interior" name="Meeting Room" cat="Backgrounds" >
+        <param val="setextures\hdri\interior\lwhdr_int0001\backgrounds\int0001_1.jpg" type="string" name="File Name" />
+      </background>
+      <camera>
+        <param val="-11.7975 -72.541 76.1065" type="point" name="From" />
+        <param val="25.9465 -59.6031 2.89876" type="point" name="To" />
+        <param val="0 -1 0" type="vector" name="Up" />
+        <param val="0" type="boolean" name="Orthographic" />
+        <param val="68.039" type="float" name="Field Of View" />
+        <param val="46.9152" type="float" name="Near" />
+        <param val="139.789" type="float" name="Far" />
+        <param val="0" type="boolean" name="View Fit" />
+      </camera>
+    </snapshot>
+  </snapshots>
+  <snapshots name="Model Material Palettes" />
+  <snapshots name="Model Backgrounds" />
+  <snapshots name="Model Cameras" />
+  <snapshot name="CurrSnapshot" >
+    <snapShotSettings>
+      <param val="0.15" type="float" name="Ambient Lights Intensity Scale" />
+      <param val="0" type="float" name="Twist" />
+      <param val="0 -1 0" type="vector" name="Orientation Up" />
+      <param val="0 0 1" type="vector" name="Orientation North" />
+      <param val="1 0 0" type="vector" name="Orientation Front Face" />
+      <param val="" type="string" name="Image File Name" />
+      <param val="Сборка" type="string" name="Session Folder" />
+      <param val="setextures\hdri\studio\lwhdr_studio2\HDR\lwhdr_studio2_2k.hdr" type="string" name="Reflected Env Path" />
+      <param val="3.75" type="float" name="Reflected Env Intensity" />
+      <param val="0" type="boolean" name="Reflect BackPlate" />
+      <param val="1" type="boolean" name="Selected" />
+    </snapShotSettings>
+    <scenery>
+      <param val="1" type="boolean" name="Drop Shadow" />
+      <param val="1" type="boolean" name="Drop Sunlight" />
+      <param val="0" type="boolean" name="Drop Reflection" />
+      <param val="10" type="integer" name="Drop Shadow Quality" />
+      <param val="0.8" type="float" name="Drop Shadow Contrast" />
+      <param val="0.5" type="float" name="Drop Sunlight Brightness" />
+      <param val="0.5" type="float" name="Drop Reflection Brightness" />
+      <param val="0" type="float" name="Drop Reflection Blur" />
+      <param val="3" type="float" name="Base Size" />
+      <param val="1" type="boolean" name="Drop Shadow Catch Spots" />
+    </scenery>
+    <materialRepository>
+      <material linkname="Изолента144 144 144 255" subcat="" refname="" >
+        <colour>
+          <diffuse>
+            <param val="colour" type="shader" name="Colour" >
+              <plainColour enabled="1" >
+                <param val="1 0.6 0" type="colour" name="Colour" />
+              </plainColour>
+            </param>
+          </diffuse>
+        </colour>
+        <finish subcat="Standard" refname="Metallic Paint - Gold Flakes" path="Standard\Paints" name="Metallic Paint - Gold Flakes" cat="Finishes" />
+        <transparency name=" (0)" >
+          <param val="colour" type="shader" name="Colour" >
+            <plainColour enabled="1" >
+              <param val="1 1 1" type="colour" name="Colour" />
+            </plainColour>
+          </param>
+          <param val="0" type="boolean" name="InvertMask" />
+        </transparency>
+        <bump subcat="Bumps" refname="Smooth" path="Bumps" name="Smooth" cat="Bumps" />
+        <material>
+          <colour>
+            <diffuse enabled="1" >
+              <param val="colour" type="shader" name="Colour" >
+                <plainColour enabled="1" >
+                  <param val="0.564706 0.564706 0.564706" type="colour" name="Colour" />
+                </plainColour>
+              </param>
+            </diffuse>
+          </colour>
+          <transparency>
+            <param val="colour" type="shader" name="Colour" >
+              <plainColour enabled="1" >
+                <param val="1 1 1" type="colour" name="Colour" />
+              </plainColour>
+            </param>
+            <param val="0" type="boolean" name="InvertMask" />
+          </transparency>
+          <bump subcat="Bumps" refname="Smooth" path="Bumps" name="Displacement" cat="Bumps" />
+          <finish subcat="Standard" refname="Matte" path="Standard\Paints" name="Reflectance" cat="Finishes" />
+        </material>
+      </material>
+      <material linkname="Батарейка0 0 255 255" >
+        <finish subcat="Advanced" refname="AutoPaint Lightness 6" path="Advanced\Paints" name="AutoPaint Lightness 6" cat="Finishes" />
+        <material>
+          <colour>
+            <diffuse enabled="1" >
+              <param val="colour" type="shader" name="Colour" >
+                <plainColour enabled="1" >
+                  <param val="0 0 1" type="colour" name="Colour" />
+                </plainColour>
+              </param>
+            </diffuse>
+          </colour>
+          <transparency>
+            <param val="colour" type="shader" name="Colour" >
+              <plainColour enabled="1" >
+                <param val="1 1 1" type="colour" name="Colour" />
+              </plainColour>
+            </param>
+            <param val="0" type="boolean" name="InvertMask" />
+          </transparency>
+          <bump subcat="Bumps" refname="Smooth" path="Bumps" name="Displacement" cat="Bumps" />
+          <finish subcat="Standard" refname="Matte" path="Standard\Paints" name="Reflectance" cat="Finishes" />
+        </material>
+      </material>
+      <material linkname="Руки144 144 144 255" subcat="" refname="" >
+        <colour>
+          <diffuse>
+            <param val="colour" type="shader" name="Colour" >
+              <plainColour enabled="1" >
+                <param val="0.95 0.7 0.39" type="colour" name="Colour" />
+              </plainColour>
+            </param>
+          </diffuse>
+        </colour>
+        <finish subcat="Standard" refname="Gold Plate" path="Metals" name="Gold Plate" cat="Finishes" />
+        <bump subcat="Bumps" refname="Smooth" path="Smooth" name="Smooth" cat="Bumps" />
+        <material>
+          <colour>
+            <diffuse enabled="1" >
+              <param val="colour" type="shader" name="Colour" >
+                <plainColour enabled="1" >
+                  <param val="0.564706 0.564706 0.564706" type="colour" name="Colour" />
+                </plainColour>
+              </param>
+            </diffuse>
+          </colour>
+          <transparency>
+            <param val="colour" type="shader" name="Colour" >
+              <plainColour enabled="1" >
+                <param val="1 1 1" type="colour" name="Colour" />
+              </plainColour>
+            </param>
+            <param val="0" type="boolean" name="InvertMask" />
+          </transparency>
+          <bump subcat="Bumps" refname="Smooth" path="Bumps" name="Displacement" cat="Bumps" />
+          <finish subcat="Standard" refname="Matte" path="Standard\Paints" name="Reflectance" cat="Finishes" />
+        </material>
+      </material>
+      <material linkname="Ноги144 144 144 255" subcat="" refname="" >
+        <colour>
+          <diffuse>
+            <param val="colour" type="shader" name="Colour" >
+              <plainColour enabled="1" >
+                <param val="0.95 0.7 0.39" type="colour" name="Colour" />
+              </plainColour>
+            </param>
+          </diffuse>
+        </colour>
+        <finish subcat="Standard" refname="Gold Plate" path="Metals" name="Gold Plate" cat="Finishes" />
+        <bump subcat="Bumps" refname="Smooth" path="Smooth" name="Smooth" cat="Bumps" />
+        <material>
+          <colour>
+            <diffuse enabled="1" >
+              <param val="colour" type="shader" name="Colour" >
+                <plainColour enabled="1" >
+                  <param val="0.564706 0.564706 0.564706" type="colour" name="Colour" />
+                </plainColour>
+              </param>
+            </diffuse>
+          </colour>
+          <transparency>
+            <param val="colour" type="shader" name="Colour" >
+              <plainColour enabled="1" >
+                <param val="1 1 1" type="colour" name="Colour" />
+              </plainColour>
+            </param>
+            <param val="0" type="boolean" name="InvertMask" />
+          </transparency>
+          <bump subcat="Bumps" refname="Smooth" path="Bumps" name="Displacement" cat="Bumps" />
+          <finish subcat="Standard" refname="Matte" path="Standard\Paints" name="Reflectance" cat="Finishes" />
+        </material>
+      </material>
+      <material linkname="Вибратор255 255 0 255" subcat="" refname="" >
+        <colour>
+          <diffuse>
+            <param val="colour" type="shader" name="Colour" >
+              <plainColour enabled="1" >
+                <param val="1 0.6 0" type="colour" name="Colour" />
+              </plainColour>
+            </param>
+          </diffuse>
+        </colour>
+        <transparency name=" (0)" >
+          <param val="colour" type="shader" name="Colour" >
+            <plainColour enabled="1" >
+              <param val="1 1 1" type="colour" name="Colour" />
+            </plainColour>
+          </param>
+          <param val="0" type="boolean" name="InvertMask" />
+        </transparency>
+        <bump subcat="Bumps" refname="Smooth" path="Bumps" name="Smooth" cat="Bumps" />
+        <finish subcat="Standard" refname="Matte Brightness 8" path="Standard\Coatings" name="Matte Brightness 8" cat="Finishes" />
+        <material>
+          <colour>
+            <diffuse enabled="1" >
+              <param val="colour" type="shader" name="Colour" >
+                <plainColour enabled="1" >
+                  <param val="1 1 0" type="colour" name="Colour" />
+                </plainColour>
+              </param>
+            </diffuse>
+          </colour>
+          <transparency>
+            <param val="colour" type="shader" name="Colour" >
+              <plainColour enabled="1" >
+                <param val="1 1 1" type="colour" name="Colour" />
+              </plainColour>
+            </param>
+            <param val="0" type="boolean" name="InvertMask" />
+          </transparency>
+          <bump subcat="Bumps" refname="Smooth" path="Bumps" name="Displacement" cat="Bumps" />
+          <finish subcat="Standard" refname="Matte" path="Standard\Paints" name="Reflectance" cat="Finishes" />
+        </material>
+      </material>
+      <material linkname="Мотор255 0 0 255" subcat="" refname="" >
+        <colour>
+          <diffuse>
+            <param val="colour" type="shader" name="Colour" >
+              <plainColour enabled="1" >
+                <param val="0.756863 0.745098 0.741176" type="colour" name="Colour" />
+              </plainColour>
+            </param>
+          </diffuse>
+        </colour>
+        <finish subcat="Advanced" refname="Steel Brushed 4" path="Advanced\Metals" name="Steel Brushed 4" cat="Finishes" />
+        <bump subcat="Bumps" refname="Smooth" path="Smooth" name="Smooth" cat="Bumps" />
+        <material>
+          <colour>
+            <diffuse enabled="1" >
+              <param val="colour" type="shader" name="Colour" >
+                <plainColour enabled="1" >
+                  <param val="1 0 0" type="colour" name="Colour" />
+                </plainColour>
+              </param>
+            </diffuse>
+          </colour>
+          <transparency>
+            <param val="colour" type="shader" name="Colour" >
+              <plainColour enabled="1" >
+                <param val="1 1 1" type="colour" name="Colour" />
+              </plainColour>
+            </param>
+            <param val="0" type="boolean" name="InvertMask" />
+          </transparency>
+          <bump subcat="Bumps" refname="Smooth" path="Bumps" name="Displacement" cat="Bumps" />
+          <finish subcat="Standard" refname="Matte" path="Standard\Paints" name="Reflectance" cat="Finishes" />
+        </material>
+      </material>
+    </materialRepository>
+    <renderTargets>
+      <renderTarget subcat="Image" enabled="1" >
+        <param val="30" type="integer" name="Lighting Quality" />
+        <param val="5" type="integer" name="Material Quality" />
+        <param val="Progressive High" type="string" name="Render Quality" />
+        <param prop="D" val="0.5" type="float" name="Model Hint" />
+        <param val="1280" type="integer" name="Width" />
+        <param val="720" type="integer" name="Height" />
+        <param val="1" type="boolean" name="Use Aspect Ratio" />
+        <param val="1.77778" type="float" name="Aspect Ratio" />
+        <param val="1" type="boolean" name="Landscape" />
+        <param val="C:\Users\Казанцев\Documents\Простые роботы\Робот-боец\Сборка\photo_CurrSnapshot.png" type="string" name="Filename" />
+        <param val="photo_CurrSnapshot.png" type="string" name="Short Filename" />
+        <param val="png" type="string" name="Output Format" />
+        <param val="0" type="float" name="Gamma" />
+      </renderTarget>
+    </renderTargets>
+    <scheme subcat="Product" refname="Studio - Neutral 2" description="" path="Product\Artisan\Studios" name="Studio - Neutral 2" cat="Schemes" >
+      <background subcat="Plain" refname="White" path="Plain" name="White" cat="Backgrounds" />
+    </scheme>
+    <naturalLightStudio>
+      <param val="1" type="boolean" name="Enabled" />
+      <param val="205.2" type="float" name="Sun Azimuth" />
+      <param val="45" type="float" name="Sun Altitude" />
+    </naturalLightStudio>
+    <artificialLightStudio>
+      <param val="1" type="boolean" name="Enabled" />
+      <param val="1" type="float" name="Intensity Scale" />
+    </artificialLightStudio>
+    <background subcat="Image" refname="Meeting Room" path="Image\Interior" name="Meeting Room" cat="Backgrounds" >
+      <param val="setextures\hdri\interior\lwhdr_int0001\backgrounds\int0001_1.jpg" type="string" name="File Name" />
+    </background>
+    <camera>
+      <param val="-11.7975 -72.541 76.1065" type="point" name="From" />
+      <param val="25.9465 -59.6031 2.89876" type="point" name="To" />
+      <param val="0 -1 0" type="vector" name="Up" />
+      <param val="0" type="boolean" name="Orthographic" />
+      <param val="68.039" type="float" name="Field Of View" />
+      <param val="0" type="float" name="Near" />
+      <param val="0" type="float" name="Far" />
+      <param val="0" type="boolean" name="View Fit" />
+    </camera>
+  </snapshot>
+  <background subcat="Horizon" >
+    <param val="0 0 1" type="colour" name="Sky Colour" />
+    <param val="0.8 0.8 1" type="colour" name="Horizon Sky Colour" />
+    <param val="0.6 1 1" type="colour" name="Horizon Ground Colour" />
+    <param val="0.2 0.6 0.6" type="colour" name="Ground Colour" />
+  </background>
+</snapRoot>
