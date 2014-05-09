@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="607.27629"
-     inkscape:cy="697.0025"
+     inkscape:zoom="0.5"
+     inkscape:cx="611.64155"
+     inkscape:cy="573.8441"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1655,15 +1655,15 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:none;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
-       x="532.57147"
-       y="551.96283"
+       x="530.95013"
+       y="562.6405"
        id="text5805-9-1"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
        inkscape:export-xdpi="105.61784"
        inkscape:export-ydpi="105.61784"><tspan
          sodipodi:role="line"
-         x="532.57147"
-         y="551.96283"
+         x="530.95013"
+         y="562.6405"
          style="font-weight:normal;fill:#000000;-inkscape-font-specification:Segoe UI"
          id="tspan5978-2">ДИОД</tspan></text>
     <text
@@ -1879,7 +1879,7 @@
        y="630.21942"
        id="text7371"><tspan
          sodipodi:role="line"
-         id="tspan7373"></tspan></text>
+         id="tspan7373" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5910-1-8"
@@ -1898,7 +1898,7 @@
          style="font-size:11px;font-weight:bold;-inkscape-font-specification:Segoe UI Bold"
          id="flowPara7422">Диоды можно использовать как датчики температуры, а в прозрачном корпусе как фотодиоды и даже солнечные батареи</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 589.00779,548.61228 67.28715,0"
+       d="m 585.50779,541.61228 67.28715,0"
        id="path5864-4-0-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -1920,14 +1920,14 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 466.43793,162.70635 -12.27866,-21.26725 24.55731,0 z"
-       transform="matrix(0,-0.83521867,0.83521867,0,495.56332,937.87795)"
+       transform="matrix(0,-0.83521867,0.83521867,0,492.06332,930.87795)"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard2.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150"
        inkscape:transform-center-x="3.5445417" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.62992132;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 631.42861,559.05742 0,-21.93616"
+       d="m 627.92861,552.05742 0,-21.93616"
        id="path9363-1-8-9"
        inkscape:connector-curvature="0"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard2.png"
@@ -1936,16 +1936,104 @@
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
-       x="617.47461"
-       y="577.37292"
+       x="614.47461"
+       y="564.37292"
        id="text12702-0"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard2.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150"><tspan
          sodipodi:role="line"
          id="tspan12704-7"
-         x="617.47461"
-         y="577.37292"
+         x="614.47461"
+         y="564.37292"
          style="font-size:14px;font-weight:normal;fill:#000000;-inkscape-font-specification:Segoe UI">D</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect3272"
+       width="27.660839"
+       height="14.413458"
+       x="608.02448"
+       y="570.75903"
+       ry="0" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       id="rect3368"
+       width="31.75"
+       height="2.375"
+       x="639.25"
+       y="576.61218"
+       ry="1.1875" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path3274-1"
+       sodipodi:cx="587.625"
+       sodipodi:cy="583.09558"
+       sodipodi:rx="4.625"
+       sodipodi:ry="7.483407"
+       d="m 592.25,583.09558 a 4.625,7.483407 0 1 1 -9.25,0 4.625,7.483407 0 1 1 9.25,0 z"
+       transform="matrix(0.96241685,0,0,0.96241685,70.272298,16.774916)" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:none"
+       d="m 629.26369,570.714 0,0.0625 c 0.08,-0.0249 0.16529,-0.0312 0.24744,-0.0312 1.31457,0 3.40667,3.28308 3.40667,7.3125 0,3.41862 -1.79396,6.27113 -2.82931,7.0625 l 4.60238,0 c 0.006,0 0.0111,1.1e-4 0.0165,0 1.30715,-0.0263 3.18793,-3.13239 3.18793,-7.09375 0,-3.96114 -1.88088,-7.2859 -3.18793,-7.3125 l -0.0165,0 -5.42718,0 z"
+       id="path3274"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsscscscccc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path3274-1-0"
+       sodipodi:cx="587.625"
+       sodipodi:cy="583.09558"
+       sodipodi:rx="4.625"
+       sodipodi:ry="7.483407"
+       d="m 592.25,583.09558 a 4.625,7.483407 0 1 1 -9.25,0 4.625,7.483407 0 1 1 9.25,0 z"
+       transform="matrix(0.96241685,0,0,0.96241685,42.834801,16.774918)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="path3274-1-0-9"
+       sodipodi:cx="587.625"
+       sodipodi:cy="583.09558"
+       sodipodi:rx="4.625"
+       sodipodi:ry="7.483407"
+       d="m 592.25,583.09558 a 4.625,7.483407 0 1 1 -9.25,0 4.625,7.483407 0 1 1 9.25,0 z"
+       transform="matrix(0.83540081,0,0,0.83540081,117.51015,90.793148)" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       id="rect3368-4"
+       width="31.75"
+       height="2.375"
+       x="577.125"
+       y="576.67468"
+       ry="1.1875" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:none;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
+       x="578.5686"
+       y="537.90356"
+       id="text5805-9-1-8"
+       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
+       inkscape:export-xdpi="105.61784"
+       inkscape:export-ydpi="105.61784"><tspan
+         sodipodi:role="line"
+         x="578.5686"
+         y="537.90356"
+         style="font-weight:normal;fill:#000000;-inkscape-font-specification:Segoe UI"
+         id="tspan5978-2-8">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:none;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
+       x="658.6582"
+       y="537.07599"
+       id="text5805-9-1-8-2"
+       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
+       inkscape:export-xdpi="105.61784"
+       inkscape:export-ydpi="105.61784"><tspan
+         sodipodi:role="line"
+         x="658.6582"
+         y="537.07599"
+         style="font-weight:normal;fill:#000000;-inkscape-font-specification:Segoe UI"
+         id="tspan5978-2-8-4">-</tspan></text>
   </g>
 </svg>
