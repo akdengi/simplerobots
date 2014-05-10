@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="385.82836"
-     inkscape:cy="447.88225"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="636.32963"
+     inkscape:cy="273.37746"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2264,15 +2264,13 @@
            y="235.36218"
            style="fill:#000000" /></flowRegion><flowPara
          style="font-weight:normal;fill:#000000;-inkscape-font-specification:Segoe UI"
-         id="flowPara7361-8"><flowSpan
-   style="font-weight:bold;fill:#000000"
-   id="flowSpan7363-6">СВЕТОДИОД</flowSpan> — полупроводиниковый диод, испускающий свет при подключении.</flowPara><flowPara
-         style="font-weight:normal;fill:#000000;-inkscape-font-specification:Segoe UI"
          id="flowPara3572"><flowSpan
+   style="font-weight:bold;fill:#000000"
+   id="flowSpan7363-6">СВЕТОДИОД</flowSpan> — полупроводиниковый диод, испускающий свет при подключении. <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Segoe UI Bold"
    id="flowSpan3574">РЕЗИСТОР</flowSpan> (или <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Segoe UI Bold"
-   id="flowSpan3576">СОПРОТИВЛЕНИЕ</flowSpan>) - пассивный элемент электрической цепи, обладающий сопротивлением электрическому току. Измеряется в Омах. </flowPara></flowRoot>    <flowRoot
+   id="flowSpan3576">СОПРОТИВЛЕНИЕ</flowSpan>) - пассивный элемент электрической цепи, сопротивляющийся электрическому току, преобразовывая его часть в тепло. Измеряется в Омах. </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5910-1-8-6"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
@@ -2288,9 +2286,7 @@
            y="141.86218"
            style="fill:#000000" /></flowRegion><flowPara
          style="font-size:11px;font-weight:bold;-inkscape-font-specification:Segoe UI Bold"
-         id="flowPara3586">Резистор уменьшает величину тока, а не напряжения согласно закону Ома.</flowPara><flowPara
-         style="font-size:11px;font-weight:bold;-inkscape-font-specification:Segoe UI Bold"
-         id="flowPara3590">Вольт = Ом * Ампер</flowPara></flowRoot>    <path
+         id="flowPara3590">Резистор ограничивает величину проходящего тока, а падение напряжения в цепи обусловлено законом Ома: U=I*R</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:1.29703784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 593.18928,703.84651 61.57668,0"
        id="path5864-4-0-2-0"
@@ -2815,6 +2811,12 @@
        inkscape:export-xdpi="105.61784"
        inkscape:export-ydpi="105.61784"
        ry="13.42785" />
+    <path
+       style="fill:#008080;stroke:none;stroke-width:0.86787236000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 402.25157,970.92625 c -3.89957,0.44331 -2.31699,7.10828 -4.88548,9.16096 -2.75415,6.56804 -1.01696,14.29081 -1.79313,21.37179 0.12491,8.8804 0.7729,17.9198 -0.81019,26.6516 0.23073,14.8079 14.34664,30.2034 13.48889,7.6922 0.33636,-7.3473 2.35489,-7.3761 3.16138,-14.6577 0.0235,-4.4925 -1.45515,-16.6334 0.48706,-20.4809 1.52241,-5.41749 -1.96677,-10.63915 -0.87521,-16.12311 0.16255,-2.80329 1.92953,-5.18307 1.48228,-8.04404 -1.30594,-3.79562 -6.88734,-7.01603 -10.2556,-5.5708 z"
+       id="path4883"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect2985-1-7-3-1-7"
@@ -3169,7 +3171,7 @@
          id="flowPara4235"
          style="font-weight:normal;-inkscape-font-specification:Segoe UI">Протестируйте, приложив щупы:</flowPara><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Segoe UI"
-         id="flowPara4237">1. Образцы проводов (медь и алюминий);</flowPara><flowPara
+         id="flowPara4237">1. Образцы проводов (медь и алюминий) - жилу и изоляцию;</flowPara><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Segoe UI"
          id="flowPara4241">2. Пластиковый пакет и фольгу;</flowPara><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Segoe UI"
@@ -3183,7 +3185,7 @@
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Segoe UI"
          id="flowPara4255">7. Воду с добавлением соли;</flowPara><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Segoe UI"
-         id="flowPara4259">8. Свою кожу (сухую).</flowPara><flowPara
+         id="flowPara4259">8. Свою кожу.</flowPara><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Segoe UI"
          id="flowPara4263" /><flowPara
          style="font-weight:bold;-inkscape-font-specification:Segoe UI Bold"
@@ -3215,5 +3217,15 @@
        id="path5096"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4912"
+       style="stroke:none;fill:#b3b3b3;stroke-width:1.41732283000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;stroke-opacity:1;-inkscape-font-specification:Segoe UI Bold;font-family:Segoe UI;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;text-anchor:start;text-align:start;stroke-linejoin:miter;fill-opacity:1;stroke-dashoffset:0;opacity:1"><flowRegion
+         id="flowRegion4914"><rect
+           id="rect4916"
+           width="89.095451"
+           height="22.273863"
+           x="571.34229"
+           y="815.12787" /></flowRegion><flowPara
+         id="flowPara4918" /></flowRoot>  </g>
 </svg>
