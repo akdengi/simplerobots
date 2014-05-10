@@ -41,8 +41,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="177.77457"
-     inkscape:cy="452.84228"
+     inkscape:cx="441.76155"
+     inkscape:cy="777.85656"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -92,7 +92,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -103,10 +103,10 @@
     <rect
        style="fill:#87de87;fill-opacity:1;stroke:none"
        id="rect3870"
-       width="335.71906"
+       width="340.15747"
        height="91.579453"
-       x="372.04724"
-       y="13.842928"
+       x="31.889755"
+       y="13.842929"
        ry="0"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
        inkscape:export-xdpi="105.61784"
@@ -116,7 +116,7 @@
        id="rect2985"
        width="303.33939"
        height="189.95357"
-       x="390.4563"
+       x="50.298813"
        y="25.495592"
        ry="12.409518"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -147,7 +147,7 @@
        xml:space="preserve"
        id="flowRoot3814"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-       transform="matrix(0.96771414,0,0,0.96771414,358.15752,11.735926)"
+       transform="matrix(0.96771414,0,0,0.96771414,18.000035,11.735927)"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
        inkscape:export-xdpi="105.61784"
        inkscape:export-ydpi="105.61784"><flowRegion
@@ -183,7 +183,7 @@
        id="rect3849"
        width="42.07143"
        height="38.785713"
-       x="642.82959"
+       x="302.67212"
        y="168.44031"
        ry="10.94758"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -192,7 +192,7 @@
     <text
        xml:space="preserve"
        style="font-size:22.51773262px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-       x="650.04871"
+       x="309.89124"
        y="195.96367"
        id="text3851"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -200,14 +200,14 @@
        inkscape:export-ydpi="105.61784"><tspan
          sodipodi:role="line"
          id="tspan3853"
-         x="650.04871"
+         x="309.89124"
          y="195.96367"
          style="font-weight:bold;fill:#ffffff;-inkscape-font-specification:Segoe UI Bold">A1</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5973"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
-       transform="matrix(0.95405187,0,0,0.95405187,344.63019,-190.88784)"
+       transform="matrix(0.95405187,0,0,0.95405187,4.4727048,-190.88784)"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
        inkscape:export-xdpi="105.61784"
        inkscape:export-ydpi="105.61784"><flowRegion
@@ -234,10 +234,10 @@
    id="flowSpan3598">- образуя </flowSpan>ЭЛЕКТРИЧЕСКУЮ ЦЕПЬ</flowSpan>.</flowPara></flowRoot>    <rect
        style="fill:#ffaaaa;fill-opacity:1;stroke:none"
        id="rect3870-4"
-       width="331.53278"
+       width="340.15747"
        height="104.1193"
-       x="40.514465"
-       y="13.803083"
+       x="372.04724"
+       y="13.803085"
        ry="0"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
        inkscape:export-xdpi="105.61784"
@@ -247,7 +247,7 @@
        id="rect2985-0"
        width="303.33939"
        height="189.95357"
-       x="50.298813"
+       x="390.4563"
        y="25.495592"
        ry="12.409518"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -257,7 +257,7 @@
        xml:space="preserve"
        id="flowRoot3814-9"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-       transform="matrix(0.96209911,0,0,0.96209911,17.461569,24.238656)"
+       transform="matrix(0.96209911,0,0,0.96209911,357.619,24.238658)"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
        inkscape:export-xdpi="105.61784"
        inkscape:export-ydpi="105.61784"><flowRegion
@@ -286,7 +286,7 @@
        id="rect3849-1"
        width="42.07143"
        height="38.785713"
-       x="302.62491"
+       x="642.78235"
        y="168.44032"
        ry="10.94758"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -295,7 +295,7 @@
     <text
        xml:space="preserve"
        style="font-size:22.51773262px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-       x="309.84415"
+       x="650.00159"
        y="195.9637"
        id="text3851-7"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -303,14 +303,14 @@
        inkscape:export-ydpi="105.61784"><tspan
          sodipodi:role="line"
          id="tspan3853-1"
-         x="309.84415"
+         x="650.00159"
          y="195.9637"
          style="font-weight:bold;fill:#ffffff;-inkscape-font-specification:Segoe UI Bold">Б1</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5973-6"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
-       transform="matrix(0.95594968,0,0,0.95594968,1.9352552,-191.77272)"
+       transform="matrix(0.95594968,0,0,0.95594968,342.09268,-191.77272)"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
        inkscape:export-xdpi="105.61784"
        inkscape:export-ydpi="105.61784"><flowRegion
@@ -331,9 +331,9 @@
    id="flowSpan6986">КНОПКА</flowSpan> - устройстов для замыкания-размыкания цепи при нажатии на нее.</flowPara></flowRoot>    <rect
        style="fill:#afc6e9;fill-opacity:1;stroke:none"
        id="rect3870-4-7"
-       width="333.59775"
+       width="340.15747"
        height="103.72591"
-       x="372.04724"
+       x="31.889755"
        y="226.79495"
        ry="0"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -344,7 +344,7 @@
        id="rect2985-0-5"
        width="303.33939"
        height="189.95357"
-       x="390.4563"
+       x="50.298813"
        y="238.09407"
        ry="12.409518"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -354,7 +354,7 @@
        xml:space="preserve"
        id="flowRoot3814-9-4"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-       transform="matrix(0.97579964,0,0,0.97579964,357.82096,235.47711)"
+       transform="matrix(0.97579964,0,0,0.97579964,17.663475,235.4771)"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
        inkscape:export-xdpi="105.61784"
        inkscape:export-ydpi="105.61784"><flowRegion
@@ -383,7 +383,7 @@
        id="rect3849-1-1"
        width="42.07143"
        height="38.785713"
-       x="642.82959"
+       x="302.67212"
        y="381.03879"
        ry="10.94758"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -392,7 +392,7 @@
     <text
        xml:space="preserve"
        style="font-size:22.51773262px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-       x="650.04883"
+       x="309.89136"
        y="408.56216"
        id="text3851-7-7"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -400,7 +400,7 @@
        inkscape:export-ydpi="105.61784"><tspan
          sodipodi:role="line"
          id="tspan3853-1-7"
-         x="650.04883"
+         x="309.89136"
          y="408.56216"
          style="font-weight:bold;fill:#ffffff;-inkscape-font-specification:Segoe UI Bold">B1</tspan></text>
     <flowRoot
@@ -423,7 +423,7 @@
        xml:space="preserve"
        id="flowRoot5973-6-8"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
-       transform="matrix(0.95598241,0,0,0.95598241,344.87643,20.818019)"
+       transform="matrix(0.95598241,0,0,0.95598241,4.7189448,20.818012)"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
        inkscape:export-xdpi="105.61784"
        inkscape:export-ydpi="105.61784"><flowRegion
@@ -448,9 +448,9 @@
     <rect
        style="fill:#afc6e9;fill-opacity:1;stroke:none"
        id="rect3870-4-7-1"
-       width="335.53278"
+       width="340.15747"
        height="88.441628"
-       x="36.514465"
+       x="372.04724"
        y="226.90155"
        ry="0"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -461,7 +461,7 @@
        id="rect2985-0-5-7"
        width="303.33939"
        height="189.95357"
-       x="50.298813"
+       x="390.4563"
        y="238.09407"
        ry="12.409518"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -471,7 +471,7 @@
        xml:space="preserve"
        id="flowRoot3814-9-4-4"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-       transform="matrix(0.95921852,0,0,0.95921852,18.327431,221.23523)"
+       transform="matrix(0.95921852,0,0,0.95921852,358.48489,221.23521)"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
        inkscape:export-xdpi="105.61784"
        inkscape:export-ydpi="105.61784"><flowRegion
@@ -500,7 +500,7 @@
        id="rect3849-1-1-1"
        width="42.07143"
        height="38.785713"
-       x="304.03915"
+       x="644.19666"
        y="331.17734"
        ry="10.94758"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -509,7 +509,7 @@
     <text
        xml:space="preserve"
        style="font-size:22.51773262px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-       x="311.25839"
+       x="651.41589"
        y="358.70071"
        id="text3851-7-7-1"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -517,14 +517,14 @@
        inkscape:export-ydpi="105.61784"><tspan
          sodipodi:role="line"
          id="tspan3853-1-7-5"
-         x="311.25839"
+         x="651.41589"
          y="358.70071"
          style="font-weight:bold;fill:#ffffff;-inkscape-font-specification:Segoe UI Bold">А2</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5973-6-8-3"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
-       transform="matrix(0.95695237,0,0,0.95695237,5.5419934,20.58862)"
+       transform="matrix(0.95695237,0,0,0.95695237,345.69945,20.588606)"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
        inkscape:export-xdpi="105.61784"
        inkscape:export-ydpi="105.61784"><flowRegion
@@ -545,9 +545,9 @@
    id="flowSpan3576">СОПРОТИВЛЕНИЕ</flowSpan>) - пассивный элемент электрической цепи, сопротивляющийся электрическому току, преобразовывая его часть в тепло. Измеряется в Омах. </flowPara></flowRoot>    <rect
        style="fill:#ffaaaa;fill-opacity:1;stroke:none"
        id="rect3870-4-7-1-1"
-       width="335.03278"
+       width="340.15747"
        height="102.81167"
-       x="372.04724"
+       x="31.889755"
        y="439.39337"
        ry="0"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -558,7 +558,7 @@
        id="rect2985-0-5-7-7"
        width="303.33939"
        height="189.95357"
-       x="390.4563"
+       x="50.298813"
        y="450.6925"
        ry="12.409518"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -568,7 +568,7 @@
        xml:space="preserve"
        id="flowRoot5973-6-8-3-9"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
-       transform="matrix(0.96227064,0,0,0.96227064,344.4879,231.92902)"
+       transform="matrix(0.96227064,0,0,0.96227064,4.3304148,231.92901)"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
        inkscape:export-xdpi="105.61784"
        inkscape:export-ydpi="105.61784"><flowRegion
@@ -594,7 +594,7 @@
        xml:space="preserve"
        id="flowRoot3814-9-4-5"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-       transform="matrix(0.96839877,0,0,0.96839877,359.58458,447.09742)"
+       transform="matrix(0.96839877,0,0,0.96839877,19.427095,447.09741)"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
        inkscape:export-xdpi="105.61784"
        inkscape:export-ydpi="105.61784"><flowRegion
@@ -621,7 +621,7 @@
        id="rect3849-1-1-0"
        width="42.07143"
        height="38.785713"
-       x="642.27698"
+       x="302.11951"
        y="591.87439"
        ry="10.94758"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -630,7 +630,7 @@
     <text
        xml:space="preserve"
        style="font-size:22.51773262px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-       x="649.49622"
+       x="309.33875"
        y="619.39771"
        id="text3851-7-7-16"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -638,7 +638,7 @@
        inkscape:export-ydpi="105.61784"><tspan
          sodipodi:role="line"
          id="tspan3853-1-7-57"
-         x="649.49622"
+         x="309.33875"
          y="619.39771"
          style="font-weight:bold;fill:#ffffff;-inkscape-font-specification:Segoe UI Bold">Б2</tspan></text>
     <flowRoot
@@ -656,7 +656,7 @@
        id="rect2985-1-7-3-1-7-1"
        width="303.33939"
        height="189.95355"
-       x="50.298813"
+       x="390.4563"
        y="450.6925"
        ry="12.409518"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\CUBEBOT\CUBEBOT_MINI\mini-breboard_card.png"
@@ -666,7 +666,7 @@
        xml:space="preserve"
        id="flowRoot3524"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#008080;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-       transform="matrix(0.98073401,0,0,0.98073401,12.118684,-350.09674)"><flowRegion
+       transform="matrix(0.98073401,0,0,0.98073401,352.27614,-350.09676)"><flowRegion
          id="flowRegion3526"><rect
            id="rect3528"
            width="302.26553"
@@ -697,7 +697,7 @@
          style="font-weight:normal;text-align:start;text-anchor:start;fill:#000000;-inkscape-font-specification:Segoe UI"
          id="flowPara21442" /></flowRoot>    <g
        id="g3548"
-       transform="matrix(0.78073401,0,0,0.78073401,30.390703,-210.80916)">
+       transform="matrix(0.78073401,0,0,0.78073401,370.54816,-210.80918)">
       <path
          d="m 213,926.86218 c 0,2.20914 -1.79086,4 -4,4 -2.20914,0 -4,-1.79086 -4,-4 0,-2.20914 1.79086,-4 4,-4 2.20914,0 4,1.79086 4,4 z"
          sodipodi:ry="4"
@@ -721,12 +721,12 @@
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000080;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
-       x="112"
+       x="452.15747"
        y="629.86218"
        id="text21444"><tspan
          sodipodi:role="line"
          id="tspan21446"
-         x="112"
+         x="452.15747"
          y="629.86218">Подробнее на http://openedu.me</tspan></text>
   </g>
 </svg>
