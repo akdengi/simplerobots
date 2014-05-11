@@ -42,8 +42,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.99999999"
-     inkscape:cx="216.57751"
-     inkscape:cy="412.66476"
+     inkscape:cx="515.17158"
+     inkscape:cy="846.80742"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -157,7 +157,7 @@
        inkscape:export-xdpi="105.61784"
        inkscape:export-ydpi="105.61784" />
     <rect
-       style="fill:#87de87;stroke:none"
+       style="fill:#aaffaa;stroke:none"
        id="rect12661"
        width="87.585083"
        height="190.45845"
@@ -1223,7 +1223,7 @@
        id="path5982-5"
        inkscape:connector-curvature="0" />
     <rect
-       style="fill:#00ff00;stroke:none"
+       style="fill:#aaffaa;stroke:none"
        id="rect5908-1-7"
        width="223.36121"
        height="79.189865"
@@ -1780,7 +1780,7 @@
          style="font-weight:normal;fill:#000000;-inkscape-font-specification:Segoe UI"
          id="tspan5978-2-8-4">-</tspan></text>
     <rect
-       style="fill:#00ff00;stroke:none"
+       style="fill:#aaffaa;stroke:none"
        id="rect5908-1-7-2"
        width="243.1602"
        height="74.689865"
@@ -2418,7 +2418,7 @@
        inkscape:export-xdpi="105.61784"
        inkscape:export-ydpi="105.61784" />
     <rect
-       style="fill:#800000;fill-opacity:1;stroke:none;opacity:1"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;opacity:1"
        id="rect5920-5-7-7-5"
        width="189.96172"
        height="22.627417"
@@ -2459,7 +2459,7 @@
        inkscape:export-ydpi="105.61784" />
     <text
        xml:space="preserve"
-       style="font-size:12.82055378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       style="font-size:12.82055377999999900px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
        x="-634.61481"
        y="684.47198"
        id="text12769-6-6-2-4"

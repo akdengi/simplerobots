@@ -40,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="441.76155"
-     inkscape:cy="777.85656"
+     inkscape:zoom="1"
+     inkscape:cx="564.16664"
+     inkscape:cy="745.77368"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -101,7 +101,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#87de87;fill-opacity:1;stroke:none"
+       style="fill:#aaffaa;fill-opacity:1;stroke:none"
        id="rect3870"
        width="340.15747"
        height="91.579453"
@@ -161,7 +161,7 @@
          id="flowPara3820"
          style="font-size:11px;text-align:justify;text-anchor:start"><flowSpan
            style="font-weight:bold;fill:#008000;-inkscape-font-specification:Segoe UI Bold"
-           id="flowSpan3077">ЗАЖГИ ЛАМПОЧКУ</flowSpan></flowPara><flowPara
+           id="flowSpan3077">ЗАЖГИТЕ ЛАМПОЧКУ</flowSpan></flowPara><flowPara
          id="flowPara3824"
          style="font-size:11px;text-align:justify;text-anchor:start">- источник электрического тока. Две батареи АА соедини с помощью прилагаемых магнитов и подключи проводами к плате. Помни что плюс одной батареи должен быть соединен с минусом другой!</flowPara><flowPara
          id="flowPara3826"
@@ -617,7 +617,7 @@
          id="flowPara7369-2">- примеры проводников и диэлектриков.</flowPara><flowPara
          style="font-size:11px;text-align:justify;text-anchor:start"
          id="flowPara21436">Вы можете протестировать все что есть дома!</flowPara></flowRoot>    <rect
-       style="fill:#800000;fill-opacity:1;stroke:none"
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
        id="rect3849-1-1-0"
        width="42.07143"
        height="38.785713"
