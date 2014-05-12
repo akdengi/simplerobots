@@ -41,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99999999"
-     inkscape:cx="515.17158"
-     inkscape:cy="846.80742"
+     inkscape:zoom="2"
+     inkscape:cx="324.20211"
+     inkscape:cy="324.87579"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2801,6 +2801,17 @@
        inkscape:export-ydpi="105.61784" />
     <text
        xml:space="preserve"
+       style="font-size:11.12921429000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       x="57.320518"
+       y="470.65964"
+       id="text3562-1"><tspan
+         sodipodi:role="line"
+         id="tspan3564-7"
+         x="57.320518"
+         y="470.65964"
+         style="font-weight:bold;fill:#ffffff;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:Segoe UI Bold">КОНСТРУКТОР РАДИОТЕХНИЧЕСКИЙ CUBEBOT MINI</tspan></text>
+    <text
+       xml:space="preserve"
        style="font-size:11.12921429px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
        x="57.555027"
        y="470.77539"
@@ -2812,37 +2823,78 @@
          style="font-weight:bold;-inkscape-font-specification:Segoe UI Bold">КОНСТРУКТОР РАДИОТЕХНИЧЕСКИЙ CUBEBOT MINI</tspan></text>
     <text
        xml:space="preserve"
+       style="font-size:34.77675247px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       x="62.922806"
+       y="513.099"
+       id="text3562-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan3564-0-0"
+         x="62.922806"
+         y="513.099"
+         style="font-weight:bold;fill:#ffffff;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:Segoe UI Bold">ЦЕПИ</tspan></text>
+    <text
+       xml:space="preserve"
        style="font-size:34.77675247px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000080;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-       x="58.375401"
+       x="62.375401"
        y="512.83557"
        id="text3562-4"><tspan
          sodipodi:role="line"
          id="tspan3564-0"
-         x="58.375401"
+         x="62.375401"
          y="512.83557"
          style="font-weight:bold;fill:#000080;-inkscape-font-specification:Segoe UI Bold">ЦЕПИ</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:34.77675247px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#800000;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       style="font-size:34.77675247px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       x="135.23819"
+       y="554.82629"
+       id="text3562-4-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan3564-0-4-4"
+         x="135.23819"
+         y="554.82629"
+         style="font-weight:bold;fill:#ffffff;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:Segoe UI Bold">РЕЗИСТОРЫ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:34.77675247px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ff0000;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
        x="135.51778"
-       y="558.51605"
+       y="554.51605"
        id="text3562-4-9"><tspan
          sodipodi:role="line"
          id="tspan3564-0-4"
          x="135.51778"
-         y="558.51605"
-         style="font-weight:bold;fill:#800000;-inkscape-font-specification:Segoe UI Bold">РЕЗИСТОРЫ</tspan></text>
+         y="554.51605"
+         style="font-weight:bold;fill:#ff0000;-inkscape-font-specification:Segoe UI Bold">РЕЗИСТОРЫ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:34.77675247px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       x="111.64497"
+       y="597.28735"
+       id="text3562-4-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan3564-0-8-8"
+         x="111.64497"
+         y="597.28735"
+         style="font-weight:bold;fill:#ffffff;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:Segoe UI Bold">ДИОДЫ</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:34.77675247px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#008000;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-       x="79.070564"
-       y="606.3775"
+       x="111.57056"
+       y="597.3775"
        id="text3562-4-8"><tspan
          sodipodi:role="line"
          id="tspan3564-0-8"
-         x="79.070564"
-         y="606.3775"
+         x="111.57056"
+         y="597.3775"
          style="font-weight:bold;fill:#008000;-inkscape-font-specification:Segoe UI Bold">ДИОДЫ</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect10303"
+       width="106.41958"
+       height="26.162951"
+       x="238.64854"
+       y="606.53137"
+       ry="6.2204909" />
     <g
        id="g5664"
        transform="matrix(0.65932748,0,0,0.65932748,321.04139,729.56586)"
@@ -5628,86 +5680,27 @@
          d="m 423.66518,54.910714 0,199.999996 279.5,0 0,-199.999996 -279.5,0 z m 26,88.406246 c 5.71839,0 10.375,4.62536 10.375,10.34375 0,5.71839 -4.65661,10.34375 -10.375,10.34375 -5.71839,0 -10.34375,-4.62536 -10.34375,-10.34375 0,-5.71839 4.62536,-10.34375 10.34375,-10.34375 z m 230.1875,0.125 c 5.71839,0 10.375,4.62536 10.375,10.34375 0,5.71839 -4.65661,10.34375 -10.375,10.34375 -5.71839,0 -10.34375,-4.62536 -10.34375,-10.34375 0,-5.71839 4.62536,-10.34375 10.34375,-10.34375 z"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000" />
     </g>
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none"
+       id="rect9716"
+       width="2.2267113"
+       height="50.285397"
+       x="832.19391"
+       y="76.961548"
+       transform="matrix(0.68510853,0.72844101,0,1,0,0)" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect9714"
+       width="70.683304"
+       height="2.023097"
+       x="-202.02937"
+       y="1015.1555"
+       transform="matrix(1,0,0.69122268,0.72264182,0,0)" />
     <path
-       sodipodi:type="arc"
-       style="fill:#666666;fill-opacity:1;stroke:none"
-       id="path9718"
-       sodipodi:cx="445.60355"
-       sodipodi:cy="164.69063"
-       sodipodi:rx="10.227795"
-       sodipodi:ry="9.8489876"
-       d="m 455.83134,164.69063 a 10.227795,9.8489876 0 1 1 -20.45559,0 10.227795,9.8489876 0 1 1 20.45559,0 z"
-       transform="matrix(0.25170107,0,0,0.25170107,394.21629,666.71536)"
-       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000"
-       id="path9718-4"
-       sodipodi:cx="445.60355"
-       sodipodi:cy="164.69063"
-       sodipodi:rx="10.227795"
-       sodipodi:ry="9.8489876"
-       d="m 455.83134,164.69063 a 10.227795,9.8489876 0 1 1 -20.45559,0 10.227795,9.8489876 0 1 1 20.45559,0 z"
-       transform="matrix(0.25170107,0,0,0.25170107,395.07951,667.46791)"
-       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#666666;fill-opacity:1;stroke:none"
-       id="path9718-5"
-       sodipodi:cx="445.60355"
-       sodipodi:cy="164.69063"
-       sodipodi:rx="10.227795"
-       sodipodi:ry="9.8489876"
-       d="m 455.83134,164.69063 a 10.227795,9.8489876 0 1 1 -20.45559,0 10.227795,9.8489876 0 1 1 20.45559,0 z"
-       transform="matrix(0.25170107,0,0,0.25170107,452.10423,666.73079)"
-       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000"
-       id="path9718-4-6"
-       sodipodi:cx="445.60355"
-       sodipodi:cy="164.69063"
-       sodipodi:rx="10.227795"
-       sodipodi:ry="9.8489876"
-       d="m 455.83134,164.69063 a 10.227795,9.8489876 0 1 1 -20.45559,0 10.227795,9.8489876 0 1 1 20.45559,0 z"
-       transform="matrix(0.25170107,0,0,0.25170107,453.21939,667.34019)"
-       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <g
-       id="g12884"
-       transform="matrix(0.25170107,0,0,0.25170107,393.13943,669.48851)"
-       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         transform="matrix(0.68510854,0.728441,0,1,0,0)"
-         y="-693.36945"
-         x="1026.4503"
-         height="199.78221"
-         width="8.8466501"
-         id="rect9716"
-         style="fill:#999999;fill-opacity:1;stroke:none" />
-      <rect
-         transform="matrix(1,0,0.69122267,0.72264184,0,0)"
-         y="352.44052"
-         x="179.62413"
-         height="8.0376978"
-         width="280.82242"
-         id="rect9714"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect2996-4"
-         d="m 423.66518,54.910714 0,199.999996 279.5,0 0,-199.999996 -279.5,0 z m 26,88.406246 c 5.71839,0 10.375,4.62536 10.375,10.34375 0,5.71839 -4.65661,10.34375 -10.375,10.34375 -5.71839,0 -10.34375,-4.62536 -10.34375,-10.34375 0,-5.71839 4.62536,-10.34375 10.34375,-10.34375 z m 230.1875,0.125 c 5.71839,0 10.375,4.62536 10.375,10.34375 0,5.71839 -4.65661,10.34375 -10.375,10.34375 -5.71839,0 -10.34375,-4.62536 -10.34375,-10.34375 0,-5.71839 4.62536,-10.34375 10.34375,-10.34375 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000" />
-    </g>
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25170106"
+       d="m 499.77641,683.3096 0,50.34021 70.35045,0 0,-50.34021 -70.35045,0 z m 6.54423,22.25194 c 1.43932,0 2.6114,1.16421 2.6114,2.60354 0,1.43932 -1.17208,2.60353 -2.6114,2.60353 -1.43933,0 -2.60354,-1.16421 -2.60354,-2.60353 0,-1.43933 1.16421,-2.60354 2.60354,-2.60354 z m 57.93844,0.0315 c 1.43932,0 2.6114,1.16421 2.6114,2.60354 0,1.43932 -1.17208,2.60353 -2.6114,2.60353 -1.43933,0 -2.60354,-1.16421 -2.60354,-2.60353 0,-1.43933 1.16421,-2.60354 2.60354,-2.60354 z"
+       id="rect2996-4"
+       inkscape:connector-curvature="0" />
     <path
        sodipodi:type="arc"
        style="fill:none;stroke:#000000;stroke-width:1.31948876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -9557,58 +9550,6 @@
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#808080;fill-opacity:1;stroke:none"
-       id="path12765-9"
-       sodipodi:cx="449.51788"
-       sodipodi:cy="502.8392"
-       sodipodi:rx="16.162441"
-       sodipodi:ry="16.162441"
-       d="m 465.68032,502.8392 a 16.162441,16.162441 0 1 1 -32.32488,0 16.162441,16.162441 0 1 1 32.32488,0 z"
-       transform="matrix(0.25170107,0,0,0.25170107,457.51309,663.57752)"
-       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       transform="matrix(0.25170107,0,0,0.25170107,456.54101,663.20384)"
-       sodipodi:type="arc"
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       id="path12765-0-73"
-       sodipodi:cx="449.51788"
-       sodipodi:cy="502.8392"
-       sodipodi:rx="16.162441"
-       sodipodi:ry="16.162441"
-       d="m 465.68032,502.8392 a 16.162441,16.162441 0 1 1 -32.32488,0 16.162441,16.162441 0 1 1 32.32488,0 z"
-       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       transform="matrix(0.25170107,0,0,0.25170107,400.94892,664.14642)"
-       sodipodi:type="arc"
-       style="fill:#808080;fill-opacity:1;stroke:none"
-       id="path12765-5-5"
-       sodipodi:cx="449.51788"
-       sodipodi:cy="502.8392"
-       sodipodi:rx="16.162441"
-       sodipodi:ry="16.162441"
-       d="m 465.68032,502.8392 a 16.162441,16.162441 0 1 1 -32.32488,0 16.162441,16.162441 0 1 1 32.32488,0 z"
-       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       transform="matrix(0.25170107,0,0,0.25170107,399.97683,663.77275)"
-       sodipodi:type="arc"
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       id="path12765-0-7-0"
-       sodipodi:cx="449.51788"
-       sodipodi:cy="502.8392"
-       sodipodi:rx="16.162441"
-       sodipodi:ry="16.162441"
-       d="m 465.68032,502.8392 a 16.162441,16.162441 0 1 1 -32.32488,0 16.162441,16.162441 0 1 1 32.32488,0 z"
-       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000080;stroke-width:0.50340217;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect14663"
@@ -12443,7 +12384,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.26141533"
-       d="m 471.78006,787.36819 c -1.4186,0 -2.56633,1.19844 -2.56633,2.67857 0,1.23276 0.79732,2.27242 1.88354,2.58508 -0.47874,-0.48682 -0.76911,-1.16923 -0.76911,-1.9218 0,-1.48013 1.14774,-2.67859 2.56633,-2.67859 0.23175,0 0.45354,0.0336 0.6671,0.0936 -0.46178,-0.46372 -1.09001,-0.7568 -1.78153,-0.7568 z"
+       d="m 473.37106,768.45308 c -1.4186,0 -2.56633,1.19844 -2.56633,2.67857 0,1.23276 0.79732,2.27242 1.88354,2.58508 -0.47874,-0.48682 -0.76911,-1.16923 -0.76911,-1.9218 0,-1.48013 1.14774,-2.67859 2.56633,-2.67859 0.23175,0 0.45354,0.0336 0.6671,0.0936 -0.46178,-0.46372 -1.09001,-0.7568 -1.78153,-0.7568 z"
        id="path9718-5-2"
        inkscape:connector-curvature="0"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
@@ -12925,7 +12866,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold">C</tspan></text>
     <g
        id="g9695-2"
-       transform="matrix(0.03050659,0,0,0.03050659,472.53771,778.94586)"
+       transform="matrix(0.03050659,0,0,0.03050659,473.24483,778.5923)"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -13042,20 +12983,20 @@
     <text
        xml:space="preserve"
        style="font-size:4.37985611px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000080;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
-       x="463.1767"
-       y="812.67859"
+       x="463.88385"
+       y="812.85535"
        id="text9710-2"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan9712-4"
-         x="463.1767"
-         y="812.67859"
+         x="463.88385"
+         y="812.85535"
          style="font-weight:normal;-inkscape-font-specification:Segoe UI">Card 1</tspan></text>
     <path
        style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.2582204"
-       d="m 413.94754,787.42796 c -1.41965,0 -2.56823,1.1685 -2.56823,2.61161 0,1.20192 0.79791,2.21557 1.88494,2.5204 -0.47911,-0.47462 -0.76969,-1.13997 -0.76969,-1.87371 0,-1.44313 1.14858,-2.61159 2.56823,-2.61159 0.23191,0 0.45386,0.0327 0.66758,0.0912 -0.46211,-0.45212 -1.09081,-0.73789 -1.78283,-0.73789 z"
+       d="m 413.24043,768.33608 c -1.41965,0 -2.56823,1.1685 -2.56823,2.61161 0,1.20192 0.79791,2.21557 1.88494,2.5204 -0.47911,-0.47462 -0.76969,-1.13997 -0.76969,-1.87371 0,-1.44313 1.14858,-2.61159 2.56823,-2.61159 0.23191,0 0.45386,0.0327 0.66758,0.0912 -0.46211,-0.45212 -1.09081,-0.73789 -1.78283,-0.73789 z"
        id="path9718-5-2-9"
        inkscape:connector-curvature="0"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
@@ -13070,12 +13011,12 @@
        sodipodi:rx="16.162441"
        sodipodi:ry="16.162441"
        d="m 465.68032,502.8392 a 16.162441,16.162441 0 1 1 -32.32488,0 16.162441,16.162441 0 1 1 32.32488,0 z"
-       transform="matrix(0.25170107,0,0,0.25170107,357.60394,662.89317)"
+       transform="matrix(0.25170107,0,0,0.25170107,359.19494,643.97806)"
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       transform="matrix(0.25170107,0,0,0.25170107,356.63186,662.51949)"
+       transform="matrix(0.25170107,0,0,0.25170107,358.22286,643.60438)"
        sodipodi:type="arc"
        style="fill:#4d4d4d;fill-opacity:1;stroke:none"
        id="path12765-0"
@@ -13087,32 +13028,35 @@
        inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <path
-       transform="matrix(0.25170107,0,0,0.25170107,301.03976,663.46207)"
-       sodipodi:type="arc"
-       style="fill:#808080;fill-opacity:1;stroke:none"
-       id="path12765-5"
-       sodipodi:cx="449.51788"
-       sodipodi:cy="502.8392"
-       sodipodi:rx="16.162441"
-       sodipodi:ry="16.162441"
-       d="m 465.68032,502.8392 a 16.162441,16.162441 0 1 1 -32.32488,0 16.162441,16.162441 0 1 1 32.32488,0 z"
-       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       transform="matrix(0.25170107,0,0,0.25170107,300.06768,663.08839)"
-       sodipodi:type="arc"
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       id="path12765-0-7"
-       sodipodi:cx="449.51788"
-       sodipodi:cy="502.8392"
-       sodipodi:rx="16.162441"
-       sodipodi:ry="16.162441"
-       d="m 465.68032,502.8392 a 16.162441,16.162441 0 1 1 -32.32488,0 16.162441,16.162441 0 1 1 32.32488,0 z"
-       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+    <g
+       id="g10356">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
+         d="m 465.68032,502.8392 a 16.162441,16.162441 0 1 1 -32.32488,0 16.162441,16.162441 0 1 1 32.32488,0 z"
+         sodipodi:ry="16.162441"
+         sodipodi:rx="16.162441"
+         sodipodi:cy="502.8392"
+         sodipodi:cx="449.51788"
+         id="path12765-5"
+         style="fill:#808080;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(0.25170107,0,0,0.25170107,300.33265,644.37019)" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
+         d="m 465.68032,502.8392 a 16.162441,16.162441 0 1 1 -32.32488,0 16.162441,16.162441 0 1 1 32.32488,0 z"
+         sodipodi:ry="16.162441"
+         sodipodi:rx="16.162441"
+         sodipodi:cy="502.8392"
+         sodipodi:cx="449.51788"
+         id="path12765-0-7"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(0.25170107,0,0,0.25170107,299.36057,643.99651)" />
+    </g>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000080;stroke-width:0.50340217;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect14663-0"
@@ -13983,5 +13927,320 @@
          id="flowPara21430">РОБОТ-ХУДОЖНИК</flowPara><flowPara
          id="flowPara21432">РОБОТ-ПАУК</flowPara><flowPara
          id="flowPara21434">РОБОТ-БОЕЦ</flowPara><flowPara
-         id="flowPara26300">и не только...</flowPara></flowRoot>  </g>
+         id="flowPara26300">и не только...</flowPara></flowRoot>    <g
+       id="g3764"
+       transform="matrix(0.41352553,0,0,0.41352553,627.81082,460.09222)">
+      <g
+         id="g10284">
+        <g
+           transform="matrix(1.0937832,0,0,1.0937832,-1003.9827,-60.395908)"
+           id="g4629">
+          <g
+             transform="matrix(1.6582384,0,0,1.6582384,-363.95051,266.40833)"
+             id="g5596-2"
+             style="fill:#ffffff;stroke:#ffffff;stroke-width:6.03049612;stroke-miterlimit:4;stroke-dasharray:none"
+             inkscape:export-xdpi="189.63097"
+             inkscape:export-ydpi="189.63097">
+            <rect
+               ry="3.0581112"
+               y="49.112"
+               x="28.030458"
+               height="42.553902"
+               width="30.714285"
+               id="rect4670-6"
+               style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.03049612;stroke-miterlimit:4;stroke-dasharray:none" />
+            <path
+               inkscape:connector-curvature="0"
+               id="rect5472-4"
+               d="m 31.607422,28.96875 c -1.978572,0 -3.572266,1.593694 -3.572266,3.572266 l 0,11.607422 c 0,1.978571 1.593694,3.570312 3.572266,3.570312 l 23.195312,0 c 1.978572,0 3.570313,-1.591742 3.570313,-3.570312 l 0,-11.607422 c 0,-1.978572 -1.591741,-3.572266 -3.570313,-3.572266 l -23.195312,0 z M 35,33.791016 c 1.775201,0 3.214844,1.439642 3.214844,3.214843 0,1.775201 -1.439643,3.212891 -3.214844,3.212891 -1.775201,0 -3.214844,-1.43769 -3.214844,-3.212891 0,-1.775201 1.439643,-3.214843 3.214844,-3.214843 z m 16.792969,0.05078 c 1.775201,0 3.214843,1.439643 3.214843,3.214844 0,1.775201 -1.439642,3.214843 -3.214843,3.214843 -1.775201,0 -3.214844,-1.439642 -3.214844,-3.214843 0,-1.775201 1.439643,-3.214844 3.214844,-3.214844 z"
+               style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.03049612;stroke-miterlimit:4;stroke-dasharray:none" />
+            <rect
+               ry="3.0581112"
+               y="49.505039"
+               x="17.321428"
+               height="26.071428"
+               width="8.9285717"
+               id="rect5474-5"
+               style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.03049612;stroke-miterlimit:4;stroke-dasharray:none" />
+            <rect
+               ry="3.0581112"
+               y="49.147896"
+               x="60.357143"
+               height="26.071428"
+               width="8.9285717"
+               id="rect5474-6-2"
+               style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.03049612;stroke-miterlimit:4;stroke-dasharray:none" />
+            <rect
+               ry="3.0581112"
+               y="92.897896"
+               x="30.892857"
+               height="6.7857141"
+               width="6.6071429"
+               id="rect5514-0"
+               style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.03049612;stroke-miterlimit:4;stroke-dasharray:none" />
+            <rect
+               ry="3.0581112"
+               y="92.719322"
+               x="49.55357"
+               height="6.7857141"
+               width="6.6071429"
+               id="rect5514-4-2"
+               style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.03049612;stroke-miterlimit:4;stroke-dasharray:none" />
+          </g>
+        </g>
+        <g
+           transform="matrix(1.8137533,0,0,1.8137533,-1402.2551,231.58182)"
+           id="g5596"
+           style="fill:#000080"
+           inkscape:export-xdpi="189.63097"
+           inkscape:export-ydpi="189.63097">
+          <rect
+             ry="3.0581112"
+             y="49.112"
+             x="28.030458"
+             height="42.553902"
+             width="30.714285"
+             id="rect4670"
+             style="fill:#000080;fill-opacity:1;stroke:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="rect5472-2"
+             d="m 31.607422,28.96875 c -1.978572,0 -3.572266,1.593694 -3.572266,3.572266 l 0,11.607422 c 0,1.978571 1.593694,3.570312 3.572266,3.570312 l 23.195312,0 c 1.978572,0 3.570313,-1.591742 3.570313,-3.570312 l 0,-11.607422 c 0,-1.978572 -1.591741,-3.572266 -3.570313,-3.572266 l -23.195312,0 z M 35,33.791016 c 1.775201,0 3.214844,1.439642 3.214844,3.214843 0,1.775201 -1.439643,3.212891 -3.214844,3.212891 -1.775201,0 -3.214844,-1.43769 -3.214844,-3.212891 0,-1.775201 1.439643,-3.214843 3.214844,-3.214843 z m 16.792969,0.05078 c 1.775201,0 3.214843,1.439643 3.214843,3.214844 0,1.775201 -1.439642,3.214843 -3.214843,3.214843 -1.775201,0 -3.214844,-1.439642 -3.214844,-3.214843 0,-1.775201 1.439643,-3.214844 3.214844,-3.214844 z"
+             style="fill:#000080;fill-opacity:1;stroke:none" />
+          <rect
+             ry="3.0581112"
+             y="49.505039"
+             x="17.321428"
+             height="26.071428"
+             width="8.9285717"
+             id="rect5474"
+             style="fill:#000080;fill-opacity:1;stroke:none" />
+          <rect
+             ry="3.0581112"
+             y="49.147896"
+             x="60.357143"
+             height="26.071428"
+             width="8.9285717"
+             id="rect5474-6"
+             style="fill:#000080;fill-opacity:1;stroke:none" />
+          <rect
+             ry="3.0581112"
+             y="92.897896"
+             x="30.892857"
+             height="6.7857141"
+             width="6.6071429"
+             id="rect5514"
+             style="fill:#000080;fill-opacity:1;stroke:none" />
+          <rect
+             ry="3.0581112"
+             y="92.719322"
+             x="49.55357"
+             height="6.7857141"
+             width="6.6071429"
+             id="rect5514-4"
+             style="fill:#000080;fill-opacity:1;stroke:none" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:36.10042953px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Terminal"
+           x="-1343.9474"
+           y="367.80862"
+           id="text3754"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3756"
+             x="-1343.9474"
+             y="367.80862"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Segoe UI;-inkscape-font-specification:Segoe UI">7+</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.26141533"
+       d="m 473.33505,808.09803 c -1.4186,0 -2.56633,1.19844 -2.56633,2.67857 0,1.23276 0.79732,2.27242 1.88354,2.58508 -0.47874,-0.48682 -0.76911,-1.16923 -0.76911,-1.9218 0,-1.48013 1.14774,-2.67859 2.56633,-2.67859 0.23175,0 0.45354,0.0336 0.6671,0.0936 -0.46178,-0.46372 -1.09001,-0.7568 -1.78153,-0.7568 z"
+       id="path9718-5-2-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       id="path12765-55"
+       sodipodi:cx="449.51788"
+       sodipodi:cy="502.8392"
+       sodipodi:rx="16.162441"
+       sodipodi:ry="16.162441"
+       d="m 465.68032,502.8392 a 16.162441,16.162441 0 1 1 -32.32488,0 16.162441,16.162441 0 1 1 32.32488,0 z"
+       transform="matrix(0.25170107,0,0,0.25170107,359.15893,683.62301)"
+       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.25170107,0,0,0.25170107,358.18685,683.24933)"
+       sodipodi:type="arc"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="path12765-0-1"
+       sodipodi:cx="449.51788"
+       sodipodi:cy="502.8392"
+       sodipodi:rx="16.162441"
+       sodipodi:ry="16.162441"
+       d="m 465.68032,502.8392 a 16.162441,16.162441 0 1 1 -32.32488,0 16.162441,16.162441 0 1 1 32.32488,0 z"
+       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.2582204"
+       d="m 413.02328,807.23534 c -1.41965,0 -2.56823,1.1685 -2.56823,2.61161 0,1.20192 0.79791,2.21557 1.88494,2.5204 -0.47911,-0.47462 -0.76969,-1.13997 -0.76969,-1.87371 0,-1.44313 1.14858,-2.61159 2.56823,-2.61159 0.23191,0 0.45386,0.0327 0.66758,0.0912 -0.46211,-0.45212 -1.09081,-0.73789 -1.78283,-0.73789 z"
+       id="path9718-5-2-9-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.25170107,0,0,0.25170107,300.1155,683.26945)"
+       sodipodi:type="arc"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       id="path12765-5-1"
+       sodipodi:cx="449.51788"
+       sodipodi:cy="502.8392"
+       sodipodi:rx="16.162441"
+       sodipodi:ry="16.162441"
+       d="m 465.68032,502.8392 a 16.162441,16.162441 0 1 1 -32.32488,0 16.162441,16.162441 0 1 1 32.32488,0 z"
+       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.25170107,0,0,0.25170107,299.14342,682.89577)"
+       sodipodi:type="arc"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="path12765-0-7-1"
+       sodipodi:cx="449.51788"
+       sodipodi:cy="502.8392"
+       sodipodi:rx="16.162441"
+       sodipodi:ry="16.162441"
+       d="m 465.68032,502.8392 a 16.162441,16.162441 0 1 1 -32.32488,0 16.162441,16.162441 0 1 1 32.32488,0 z"
+       inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(99.25926,0.06188728)"
+       id="g10356-5">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
+         d="m 465.68032,502.8392 c 0,8.92627 -7.23617,16.16244 -16.16244,16.16244 -8.92627,0 -16.16244,-7.23617 -16.16244,-16.16244 0,-8.92627 7.23617,-16.16244 16.16244,-16.16244 8.92627,0 16.16244,7.23617 16.16244,16.16244 z"
+         sodipodi:ry="16.162441"
+         sodipodi:rx="16.162441"
+         sodipodi:cy="502.8392"
+         sodipodi:cx="449.51788"
+         id="path12765-5-2"
+         style="fill:#808080;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(0.25170107,0,0,0.25170107,300.33265,644.37019)" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
+         d="m 465.68032,502.8392 c 0,8.92627 -7.23617,16.16244 -16.16244,16.16244 -8.92627,0 -16.16244,-7.23617 -16.16244,-16.16244 0,-8.92627 7.23617,-16.16244 16.16244,-16.16244 8.92627,0 16.16244,7.23617 16.16244,16.16244 z"
+         sodipodi:ry="16.162441"
+         sodipodi:rx="16.162441"
+         sodipodi:cy="502.8392"
+         sodipodi:cx="449.51788"
+         id="path12765-0-7-7"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(0.25170107,0,0,0.25170107,299.36057,643.99651)" />
+    </g>
+    <g
+       transform="translate(158.7051,0.00838889)"
+       id="g10356-6">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
+         d="m 465.68032,502.8392 c 0,8.92627 -7.23617,16.16244 -16.16244,16.16244 -8.92627,0 -16.16244,-7.23617 -16.16244,-16.16244 0,-8.92627 7.23617,-16.16244 16.16244,-16.16244 8.92627,0 16.16244,7.23617 16.16244,16.16244 z"
+         sodipodi:ry="16.162441"
+         sodipodi:rx="16.162441"
+         sodipodi:cy="502.8392"
+         sodipodi:cx="449.51788"
+         id="path12765-5-14"
+         style="fill:#808080;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(0.25170107,0,0,0.25170107,300.33265,644.37019)" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
+         d="m 465.68032,502.8392 c 0,8.92627 -7.23617,16.16244 -16.16244,16.16244 -8.92627,0 -16.16244,-7.23617 -16.16244,-16.16244 0,-8.92627 7.23617,-16.16244 16.16244,-16.16244 8.92627,0 16.16244,7.23617 16.16244,16.16244 z"
+         sodipodi:ry="16.162441"
+         sodipodi:rx="16.162441"
+         sodipodi:cy="502.8392"
+         sodipodi:cx="449.51788"
+         id="path12765-0-7-2"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(0.25170107,0,0,0.25170107,299.36057,643.99651)" />
+    </g>
+    <g
+       transform="translate(99.484901,40.490252)"
+       id="g10356-3">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
+         d="m 465.68032,502.8392 c 0,8.92627 -7.23617,16.16244 -16.16244,16.16244 -8.92627,0 -16.16244,-7.23617 -16.16244,-16.16244 0,-8.92627 7.23617,-16.16244 16.16244,-16.16244 8.92627,0 16.16244,7.23617 16.16244,16.16244 z"
+         sodipodi:ry="16.162441"
+         sodipodi:rx="16.162441"
+         sodipodi:cy="502.8392"
+         sodipodi:cx="449.51788"
+         id="path12765-5-22"
+         style="fill:#808080;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(0.25170107,0,0,0.25170107,300.33265,644.37019)" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
+         d="m 465.68032,502.8392 c 0,8.92627 -7.23617,16.16244 -16.16244,16.16244 -8.92627,0 -16.16244,-7.23617 -16.16244,-16.16244 0,-8.92627 7.23617,-16.16244 16.16244,-16.16244 8.92627,0 16.16244,7.23617 16.16244,16.16244 z"
+         sodipodi:ry="16.162441"
+         sodipodi:rx="16.162441"
+         sodipodi:cy="502.8392"
+         sodipodi:cx="449.51788"
+         id="path12765-0-7-16"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(0.25170107,0,0,0.25170107,299.36057,643.99651)" />
+    </g>
+    <g
+       transform="translate(158.88187,40.313475)"
+       id="g10356-8">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
+         d="m 465.68032,502.8392 c 0,8.92627 -7.23617,16.16244 -16.16244,16.16244 -8.92627,0 -16.16244,-7.23617 -16.16244,-16.16244 0,-8.92627 7.23617,-16.16244 16.16244,-16.16244 8.92627,0 16.16244,7.23617 16.16244,16.16244 z"
+         sodipodi:ry="16.162441"
+         sodipodi:rx="16.162441"
+         sodipodi:cy="502.8392"
+         sodipodi:cx="449.51788"
+         id="path12765-5-5"
+         style="fill:#808080;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(0.25170107,0,0,0.25170107,300.33265,644.37019)" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Linux\Картинки\OpenEdu.me\Простые роботы\CUBEBOT_MINI\mini-breboard.png"
+         d="m 465.68032,502.8392 c 0,8.92627 -7.23617,16.16244 -16.16244,16.16244 -8.92627,0 -16.16244,-7.23617 -16.16244,-16.16244 0,-8.92627 7.23617,-16.16244 16.16244,-16.16244 8.92627,0 16.16244,7.23617 16.16244,16.16244 z"
+         sodipodi:ry="16.162441"
+         sodipodi:rx="16.162441"
+         sodipodi:cy="502.8392"
+         sodipodi:cx="449.51788"
+         id="path12765-0-7-76"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(0.25170107,0,0,0.25170107,299.36057,643.99651)" />
+    </g>
+  </g>
 </svg>
